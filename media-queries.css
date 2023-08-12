@@ -1,0 +1,40 @@
+/* MEDIA QUERIES  */
+
+@media (max-width: 825px) {
+    /* Your CSS rules for screens 768px and above */
+    #ptop{
+        padding: 0 10%;
+    }
+    #elem{
+        gap: 8px;
+    }
+    h4{
+        font-size: 13px;
+    }
+    .box{
+        padding: 3px 8px;
+    }
+    .btn{
+        padding: 6px 12px;
+        font-size: 0.89rem;
+
+    }
+
+}
+
+@media (max-width: 825px) {
+    #ptop{
+        gap: 2px;
+    }
+    h4{
+        font-size: 11px;
+    }
+    .box{
+        padding: 3px 8px;
+    }
+    .btn{
+        padding: 6px 12px;
+        font-size: 0.8rem;
+
+    }
+}
